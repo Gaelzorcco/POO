@@ -50,6 +50,6 @@ public class InterfazIMC extends Frame {
     }
 
     public static void main(String[] args) {
-        InterfazIMC ventana = new InterfazIMC("Calculadora de IMC");
+        InterfazIMC ventana = new InterfazIMC("Calculadora de IMC ");
     }
 }
